@@ -3,3 +3,5 @@
 整个网络还是比较简单的，直接上结构图：
 
 ![image](https://github.com/zhongerqiandan/DeepTTE/blob/master/123.png)
+
+我主要实现了Spatio-Temporal Component，Attribute Component，和attention的部分，在py文件里。
